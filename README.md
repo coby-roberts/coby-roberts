@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coby-roberts
 - 👀 I’m interested in Movies
-- 🌱 I’m currently studying Computer
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on ...
 
 <!---
