@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @coby-roberts
 - 👀 I’m interested in Movies
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently studying Computer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 coby-roberts/coby-roberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
